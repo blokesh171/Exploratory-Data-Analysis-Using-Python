@@ -4,6 +4,7 @@
  In this project I'm trying to analyze and visualize the used Web Scraping data set
 
 I'm planning to divide it in four parts:
+
      # Data Extractiion
      # Data PreProcessing
      # Data Cleaning and Data Wrangling
