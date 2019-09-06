@@ -3,7 +3,7 @@
  
  In this project I'm trying to analyze and visualize the used Web Scraping data set
 
-I'm planning to divide it in four parts:
+# I'm planning to divide it in four parts:
 
      # Data Extractiion
      # Data PreProcessing
@@ -19,7 +19,7 @@ The third factor is the relative average loss payment per insured vehicle year. 
 
 # Conclusion
 
- Analysis of the data set provides:
+# Analysis of the data set provides:
 
   -How the data set are distributed
   -Correlation between different fields and how they are related
