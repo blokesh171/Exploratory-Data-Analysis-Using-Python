@@ -5,7 +5,7 @@
 
 # I'm planning to divide it in four parts:
 
-     # Data Extractiion(web Scraping)
+     # Data Extraction(web Scraping)
      # Data PreProcessing(Numpy,Pandas)
      # Data Cleaning and Data Wrangling
      # Data Visualisation(Matplotlib,Seaborn)
