@@ -18,12 +18,13 @@ The third factor is the relative average loss payment per insured vehicle year. 
 
 
 # Conclusion
-# Analysis of the data set provides:
 
-  #How the data set are distributed
-  #Correlation between different fields and how they are related
-  #Normalized loss of the manufacturer
-  #Symboling : Cars are initially assigned a risk factor symbol associated with its price
-  #Mileage : Mileage based on City and Highway driving for various make and attributes
-  #Price : Factors affecting Price of the Automobile.
-  #Importance of drive wheels and curb weight
+ Analysis of the data set provides:
+
+    #How the data set are distributed
+    #Correlation between different fields and how they are related
+    #Normalized loss of the manufacturer
+    #Symboling : Cars are initially assigned a risk factor symbol associated with its price
+    #Mileage : Mileage based on City and Highway driving for various make and attributes
+    #Price : Factors affecting Price of the Automobile.
+    #Importance of drive wheels and curb weight
